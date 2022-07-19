@@ -1,0 +1,8 @@
+G:\C# Science\ShuJuJieGou\线性表\线性表\bin\Debug\线性表.exe.config
+G:\C# Science\ShuJuJieGou\线性表\线性表\bin\Debug\线性表.exe
+G:\C# Science\ShuJuJieGou\线性表\线性表\bin\Debug\线性表.pdb
+G:\C# Science\ShuJuJieGou\线性表\线性表\obj\Debug\线性表.csproj.AssemblyReference.cache
+G:\C# Science\ShuJuJieGou\线性表\线性表\obj\Debug\线性表.csproj.SuggestedBindingRedirects.cache
+G:\C# Science\ShuJuJieGou\线性表\线性表\obj\Debug\线性表.csproj.CoreCompileInputs.cache
+G:\C# Science\ShuJuJieGou\线性表\线性表\obj\Debug\线性表.exe
+G:\C# Science\ShuJuJieGou\线性表\线性表\obj\Debug\线性表.pdb
